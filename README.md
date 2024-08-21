@@ -1,2 +1,3 @@
 Prototype link for E-Learning website - https://www.figma.com/proto/tCyfEiiOFPWAzmrv4Yq2WJ/EdTech-Hub?page-id=0%3A1&node-id=1-2&viewport=835%2C-160%2C0.1&t=7ewxcFogsYyqU7db-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2
 Progotype link for Music App - https://www.figma.com/proto/CC67YkgpwnR2kNglSJHR25/Music-cloud?page-id=0%3A1&node-id=19-5&viewport=247%2C167%2C0.17&t=zLKgtTcc5EyaTH34-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2
+prototype link for Techy company Website - https://www.figma.com/proto/CBTnrNmwH7voJVL2xnylUE/Untitled?page-id=0%3A1&node-id=7-8&viewport=138%2C31%2C0.1&t=D6z9Ce0aSWLC9VCS-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7%3A8
